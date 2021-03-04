@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: rpg
+title: narzędzia scenariuszy
 email: janek@projmen.pl
 description: >- # this means to ignore newlines until "baseurl:"
- opis
+ Strona z różnymi narzędziami przydatnymi podczas przygotowywania sesji rpg
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username:  krasnoludkolo
+#github_username:  krasnoludkolo
 
 # Build settings
 theme: minima
